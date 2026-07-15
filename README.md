@@ -21,4 +21,5 @@ Python, NumPy, pandas, scikit-learn, matplotlib/seaborn, Jupyter
 
 ## About
 
-Part of my ML/AI practice: alongside this, I maintain [ml-from-first-principles](#) with NumPy implementations of CS229 algorithms that repo focuses on the math and derivations.
+Part of my ML/AI practice: alongside this, I maintain stanford-cs229-math-for-ML with NumPy implementations of CS229 algorithms that repo focuses on the math and derivations.
+l-from-first-principles
