@@ -8,7 +8,7 @@ A hands-on repository for supervised learning: I take popular datasets  and work
 |---|---|---|---|
 | Random Forest | Titanic | Classification (survival) | Done — Test set score 0.82 |
 | Random Forest | Rainfall Prediction | Classification (rain/no rain) | Done — Test set score 0.84 |
-| KNN (+ PCA) | MNISTClassification (digit recognition, 10 classes)| Done — Test set score 0.9722 |
+| KNN (+ PCA) | MNIST | Classification (digit recognition, 10 classes)| Done — Test set score 0.9722 |
 
 ## Roadmap
 
